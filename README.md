@@ -2,8 +2,8 @@
 
 Movie and TV show search engine and personal library.
 
-### Github : 
-### Website : 
+### Github : https://github.com/al1879083/Movies-TV-library/tree/main
+### Website : https://movie-tv-library.herokuapp.com/
 
 
 ## Description
@@ -17,11 +17,6 @@ A search engine using The Movie Database(https://www.themoviedb.org/) to search 
 - Logged in users will are able to save their favorite media as well as delete them.
 - Saved media are stored in their account, so next time they login, they are still in their account to be viewed. 
 
-
-## Screenshots
-![](client/src/assets/img/signup.png)
-![](client/src/assets/img/search_books.png)
-![](client/src/assets/img/saved_books.png)
 
 
 ## Technologies Use
